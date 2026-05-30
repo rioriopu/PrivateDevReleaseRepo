@@ -1,0 +1,30 @@
+[{
+    "Author":  "rioriopu",
+    "Name":  "UltimatePilot",
+    "InternalName":  "UltimatePilot",
+    "AssemblyVersion":  "1.0.0.0",
+    "RepoUrl":  "https://github.com/rioriopu/PrivateDevReleaseRepo",
+    "Description":  "絶コンテンツ自動攻略AI (BossModReborn ベースのリブランド版)。UCoB のマルチボックス自動攻略向け強化を統合: ツイスター散開 / ボス誘導 / タンクスワップ・スタンス / カルディア追従 / タンク無敵 / 予測軽減 / 合言葉起動 / 蘇生自動受諾。",
+    "ApplicableVersion":  "any",
+    "Tags":  [
+                 "combat",
+                 "ultimate",
+                 "ucob",
+                 "ai",
+                 "multibox",
+                 "pve",
+                 "raids"
+             ],
+    "DalamudApiLevel":  15,
+    "LoadRequiredState":  0,
+    "LoadSync":  false,
+    "CanUnloadAsync":  false,
+    "LoadPriority":  0,
+    "IsTestingExclusive":  false,
+    "Punchline":  "絶を自動で攻略する",
+    "AcceptsFeedback":  false,
+    "DownloadLinkInstall":  "https://raw.githubusercontent.com/rioriopu/PrivateDevReleaseRepo/main/plugins/UltimatePilot/latest.zip",
+    "DownloadLinkUpdate":  "https://raw.githubusercontent.com/rioriopu/PrivateDevReleaseRepo/main/plugins/UltimatePilot/latest.zip",
+    "DownloadLinkTesting":  "https://raw.githubusercontent.com/rioriopu/PrivateDevReleaseRepo/main/plugins/UltimatePilot/latest.zip",
+    "DownloadCount":  0
+}]
