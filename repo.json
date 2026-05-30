@@ -23,8 +23,8 @@
     "IsTestingExclusive":  false,
     "Punchline":  "絶を自動で攻略する",
     "AcceptsFeedback":  false,
-    "DownloadLinkInstall":  "https://github.com/rioriopu/PrivateDevReleaseRepo/releases/download/latest/UltimatePilot.zip",
-    "DownloadLinkUpdate":  "https://github.com/rioriopu/PrivateDevReleaseRepo/releases/download/latest/UltimatePilot.zip",
-    "DownloadLinkTesting":  "https://github.com/rioriopu/PrivateDevReleaseRepo/releases/download/latest/UltimatePilot.zip",
+    "DownloadLinkInstall":  "https://github.com/rioriopu/PrivateDevReleaseRepo/releases/download/v1.0.1.0/UltimatePilot-1.0.1.0.zip",
+    "DownloadLinkUpdate":  "https://github.com/rioriopu/PrivateDevReleaseRepo/releases/download/v1.0.1.0/UltimatePilot-1.0.1.0.zip",
+    "DownloadLinkTesting":  "https://github.com/rioriopu/PrivateDevReleaseRepo/releases/download/v1.0.1.0/UltimatePilot-1.0.1.0.zip",
     "DownloadCount":  0
 }]
