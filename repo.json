@@ -2,7 +2,7 @@
     "Author":  "rioriopu",
     "Name":  "UltimatePilot",
     "InternalName":  "UltimatePilot",
-    "AssemblyVersion":  "1.0.35.0",
+    "AssemblyVersion":  "1.0.36.0",
     "RepoUrl":  "https://github.com/rioriopu/PrivateDevReleaseRepo",
     "Description":  "絶コンテンツ自動攻略AI (BossModReborn ベースのリブランド版)。UCoB のマルチボックス自動攻略向け強化を統合: ツイスター散開 / ボス誘導 / タンクスワップ・スタンス / カルディア追従 / タンク無敵 / 予測軽減 / 合言葉起動 / 蘇生自動受諾。",
     "ApplicableVersion":  "any",
@@ -23,8 +23,8 @@
     "IsTestingExclusive":  false,
     "Punchline":  "絶を自動で攻略する",
     "AcceptsFeedback":  false,
-    "DownloadLinkInstall":  "https://github.com/rioriopu/PrivateDevReleaseRepo/releases/download/v1.0.35.0/UltimatePilot-1.0.35.0.zip",
-    "DownloadLinkUpdate":  "https://github.com/rioriopu/PrivateDevReleaseRepo/releases/download/v1.0.35.0/UltimatePilot-1.0.35.0.zip",
-    "DownloadLinkTesting":  "https://github.com/rioriopu/PrivateDevReleaseRepo/releases/download/v1.0.35.0/UltimatePilot-1.0.35.0.zip",
+    "DownloadLinkInstall":  "https://github.com/rioriopu/PrivateDevReleaseRepo/releases/download/v1.0.36.0/UltimatePilot-1.0.36.0.zip",
+    "DownloadLinkUpdate":  "https://github.com/rioriopu/PrivateDevReleaseRepo/releases/download/v1.0.36.0/UltimatePilot-1.0.36.0.zip",
+    "DownloadLinkTesting":  "https://github.com/rioriopu/PrivateDevReleaseRepo/releases/download/v1.0.36.0/UltimatePilot-1.0.36.0.zip",
     "DownloadCount":  0
 }]
