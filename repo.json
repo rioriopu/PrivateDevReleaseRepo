@@ -33,7 +33,7 @@
         "Author": "Anomek",
         "Name": "AnoMech (Estell fork)",
         "InternalName": "AnoMech",
-        "AssemblyVersion": "0.3.2.2",
+        "AssemblyVersion": "0.3.2.3",
         "RepoUrl": "https://github.com/rioriopu/AnoMech",
         "Description": "Another FFXIV mechanics simulator (anomek/AnoMech のフォーク, AGPL-3.0)。宿屋でレイドギミックをソロ練習。本フォークでは、シナリオ実行中に BoundByDuty / InCombat コンディションを偽装し、Splatoon / NyaDraw 等のコンテンツ/戦闘ゲートのオーバーレイをシミュ中に発動可能にした。β版・使用後はゲーム再起動推奨。",
         "ApplicableVersion": "any",
@@ -57,9 +57,9 @@
         "IconUrl": "https://raw.githubusercontent.com/anomek/AnoMech/master/images/icon.png",
         "Punchline": "Another FFXIV mechanics simulator (Estell fork)",
         "AcceptsFeedback": false,
-        "DownloadLinkInstall": "https://github.com/rioriopu/PrivateDevReleaseRepo/releases/download/v0.3.2.2/AnoMech-0.3.2.2.zip",
-        "DownloadLinkUpdate": "https://github.com/rioriopu/PrivateDevReleaseRepo/releases/download/v0.3.2.2/AnoMech-0.3.2.2.zip",
-        "DownloadLinkTesting": "https://github.com/rioriopu/PrivateDevReleaseRepo/releases/download/v0.3.2.2/AnoMech-0.3.2.2.zip",
+        "DownloadLinkInstall": "https://github.com/rioriopu/PrivateDevReleaseRepo/releases/download/v0.3.2.3/AnoMech-0.3.2.3.zip",
+        "DownloadLinkUpdate": "https://github.com/rioriopu/PrivateDevReleaseRepo/releases/download/v0.3.2.3/AnoMech-0.3.2.3.zip",
+        "DownloadLinkTesting": "https://github.com/rioriopu/PrivateDevReleaseRepo/releases/download/v0.3.2.3/AnoMech-0.3.2.3.zip",
         "DownloadCount": 0
     }
 ]
